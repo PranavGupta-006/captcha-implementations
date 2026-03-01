@@ -1,6 +1,6 @@
 # captcha-implementations
 
-An simple CAPTCHA system built with **Flask (Python 3)** that combines:
+A very simple CAPTCHA system built with **Flask (Python 3)** that combines:
 
 - Traditional CAPTCHA challenges  
 - Logic-based reasoning questions  
