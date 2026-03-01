@@ -11,11 +11,11 @@ This project explores how multiple human-detection signals can be combined to bu
 
 **Test Parameters**
 
-- 🔤 **Normal CAPTCHA** – Enter text as shown  
-- 🔁 **Reverse CAPTCHA** – Enter the code backwards  
-- 🔢 **Odd Character CAPTCHA** – Enter characters at odd indices  
-- ➕ **Math Challenge** – Solve arithmetic problems  
-- 🧩 **Logic Challenge** – Context-based reasoning question  
+- **Normal CAPTCHA** – Enter text as shown  
+- **Reverse CAPTCHA** – Enter the code backwards  
+- **Odd Character CAPTCHA** – Enter characters at odd indices  
+- **Math Challenge** – Solve arithmetic problems  
+- **Logic Challenge** – Context-based reasoning question  
 
 Example logic trap:
 
