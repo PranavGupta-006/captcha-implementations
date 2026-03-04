@@ -2,6 +2,8 @@
 
 **Website Link - https://captcha-implementations.onrender.com/**
 
+**Disclaimer - Due to Free Services on Render, the Backend may sleep. Due to this it may take upto 1 minute to boot it back.**
+
 
 A very simple CAPTCHA system built with **Flask (Python 3)** that combines:
 
@@ -12,7 +14,9 @@ A very simple CAPTCHA system built with **Flask (Python 3)** that combines:
 
 This project explores how multiple human-detection signals can be combined to build a smarter anti-bot verification system.
 
-**Test Parameters**
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+# Test Parameters
 
 - **Normal CAPTCHA** – Enter text as shown  
 - **Reverse CAPTCHA** – Enter the code backwards  
@@ -20,10 +24,10 @@ This project explores how multiple human-detection signals can be combined to bu
 - **Math Challenge** – Solve arithmetic problems  
 - **Logic Challenge** – Context-based reasoning question  
 
-Example logic trap:
+## Example logic trap:
 
-> “You want to wash your car and the car wash is 50 meters away.  
-> Should you walk or drive the car there?”
+  > “You want to wash your car and the car wash is 50 meters away.  
+  > Should you walk or drive the car there?”
 
 Correct answer: **DRIVE**
 
@@ -38,4 +42,11 @@ It also analyzes human interaction patterns:
 - Keystroke variance
 - Typing delay before first key press
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+# Why Captcha over Turing Test?
+
+Turing Test requires a Large Language Model to effectively test if a Judge is able to tell the difference if or not it is an AI.
+>LLM libraries can be imported into Python (They require you to have a paid account)
+>Machines can be used to locally run some LLMS like Ollama and Quen and also Deepseek's R1 but they require heafty Hardware with 32+ GB of Ram.
 
