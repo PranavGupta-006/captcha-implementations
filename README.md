@@ -1,7 +1,7 @@
 # Captcha-Implementation
 
 **Website Link - https://captcha-implementations.onrender.com/**
-**I have Shifted the backend to a website to improve intuitivity and also make it simpler to execute; The latter would require a Python3 Virtual Environment with complex instalations.**
+**I have Shifted the backend to a website to improve intuitivity and also make it simpler to execute; The latter would require a Python3 Virtual Environment with complex installations.**
 
 **Disclaimer - Due to Free Services on Render, the Backend may sleep. Due to this it may take upto 1 minute to boot it back.**
 
