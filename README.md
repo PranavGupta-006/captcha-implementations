@@ -1,6 +1,7 @@
 # Captcha-Implementation
 
 **Website Link - https://captcha-implementations.onrender.com/**
+**I have Shifted the backend to a website to improve intuitivity and also make it simpler to execute; The latter would require a Python3 Virtual Environment with complex instalations.**
 
 **Disclaimer - Due to Free Services on Render, the Backend may sleep. Due to this it may take upto 1 minute to boot it back.**
 
@@ -41,6 +42,15 @@ It also analyzes human interaction patterns:
 - Mouse movement distance & trajectory
 - Keystroke variance
 - Typing delay before first key press
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+# Tech Stack
+
+1. Python3
+2. Gunicorn(For Render Backend)
+3. 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
