@@ -1,4 +1,4 @@
-# captcha-implementations
+# Captcha-Implementation
 
 A very simple CAPTCHA system built with **Flask (Python 3)** that combines:
 
@@ -30,9 +30,9 @@ The CAPTCHA does not rely only on correct answers.
 
 It also analyzes human interaction patterns:
 
-- ⏱ Checkbox reaction timing
-- 🖱 Mouse movement distance & trajectory
-- ⌨ Keystroke variance
-- ⏳ Typing delay before first key press
+- Checkbox reaction timing
+- Mouse movement distance & trajectory
+- Keystroke variance
+- Typing delay before first key press
 
 
