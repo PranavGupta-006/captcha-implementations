@@ -48,9 +48,10 @@ It also analyzes human interaction patterns:
 # Tech Stack
 
 1. Python3
-2. Gunicorn(For Render Backend)
-3. 
-
+2. Gunicorn (For Render Backend)
+3. Flask - Python Library (For Web Applications)
+4. captcha - Python Library (To generate Captchas)
+5. Python3 Virtual Environment (To run Flask and captcha)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
